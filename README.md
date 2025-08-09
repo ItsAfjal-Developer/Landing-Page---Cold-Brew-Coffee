@@ -1,27 +1,28 @@
-# Landing Page - Cold Brew Coffee
-A Modern, Responsive Landing Page for promoting **Cold Brew Coffee** built with HTML, CSS and JavaScript.  
-It features a Sleek Dark theme, Smooth typography and an attractive Coffee-themed Design to engage Customers.
+# **Landing Page - Cold Brew Coffee**
+
+- A Modern, Responsive Landing Page for promoting **Cold Brew Coffee** built with HTML, CSS and JavaScript.  
+- It features a Sleek Dark theme, Smooth typography and an attractive Coffee-themed Design to engage Customers.
 
 
 ## Features
 
-- **Modern UI/UX** – Clean and minimal layout with a dark aesthetic.
+- **Modern UI/UX** – Clean and Minimal Layout with a Dark Aesthetic.
   
-- **Responsive Design** – Works perfectly on desktops, tablets, and mobile devices.
+- **Responsive Design** – Works perfectly on Desktops, Tablets and Mobile Devices.
   
-- **Interactive Elements** – Order button, social media icons, and smooth scroll prompts.
+- **Interactive Elements** – Order Button, Social Media Icons and Smooth Scroll Prompts.
   
-- **Product Highlight** – Detailed section describing Cold Brew’s unique benefits.
+- **Product Highlight** – Detailed Section describing Cold Brew’s Unique Benefits.
   
-- **Price Display** – Shows promotional and regular prices clearly.
+- **Price Display** – Shows promotional and Regular Prices Clearly.
 
 
 
 ## Tech Stack
 
-- **HTML5** – For semantic structure.
-- **CSS3** – For styling and animations.
-- **JavaScript** – For interactivity and user engagement.
+- **HTML5** – For Semantic Structure.
+- **CSS3** – For Styling and Animations.
+- **JavaScript** – For Interactivity and User Engagement.
 
 
 ## Screenshots
