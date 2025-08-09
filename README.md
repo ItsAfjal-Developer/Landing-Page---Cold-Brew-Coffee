@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-Below is a Preview of **Landing Page - Cold Brew Coffee**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
+Below is a Preview of **Landing Page - Cold Brew Coffee**, Showcasing the Layout and Styling Implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 <img src="images/Screenshot.png" alt="Landing Page - Cold Brew Coffee Preview" width="100%" />
